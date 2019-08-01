@@ -1,4 +1,9 @@
 first created file
 file line 2
 add line 3 by colaborator
+<<<<<<< HEAD
+lin4 something
+line5 something
+=======
  check check check
+>>>>>>> 11f1c85df5b0abed80ff61bb837c3171ae700dfb
